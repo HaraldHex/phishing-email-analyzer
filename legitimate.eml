@@ -1,0 +1,25 @@
+Return-Path: <bounce@github.com>
+Received: from out.github.com (out.github.com [192.0.2.10])
+	by mx.example.com with ESMTP id 9def456
+	for <christoffer@example.com>; Mon, 10 Mar 2025 11:02:10 +0100
+Authentication-Results: mx.example.com;
+	spf=pass (sender IP is 192.0.2.10) smtp.mailfrom=github.com;
+	dkim=pass header.d=github.com;
+	dmarc=pass (p=reject) header.from=github.com
+Received-SPF: pass (mx.example.com: domain of github.com designates 192.0.2.10 as permitted sender)
+From: "GitHub" <noreply@github.com>
+Reply-To: <noreply@github.com>
+To: <christoffer@example.com>
+Subject: [HaraldHex/ssh-brute-force-detector] A new star on your repository
+Date: Mon, 10 Mar 2025 11:02:08 +0100
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<html><body>
+<p>Hi Christoffer,</p>
+<p>Someone just starred your repository ssh-brute-force-detector.</p>
+<p><a href="https://github.com/HaraldHex/ssh-brute-force-detector">View your repository</a></p>
+<p>You can manage your notification settings in your account.</p>
+<p>Thanks,<br>The GitHub Team</p>
+</body></html>
