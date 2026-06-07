@@ -89,7 +89,3 @@ This is the triage front-end of a small blue-team toolkit:
 - Attachment analysis is by extension, not by content / hash sandboxing.
 - A natural extension is auto-hashing attachments and feeding every IOC
   straight into the enrichment tool above.
-
-## License
-
-MIT
